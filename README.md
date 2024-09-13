@@ -5,6 +5,6 @@ This paper presents a building volume estimation model based on convolutional ne
 
 ![markdown图](https://github.com/user-attachments/assets/8779f375-0cff-4f52-b1ee-978e652ce56f)
 
-Nighttime lights dataset available through 'https://doi.org/10.7910/DVN/YGIVCD'
+Nighttime lights dataset is available from 'https://doi.org/10.7910/DVN/YGIVCD'
 
-Building heights and profile dataset available through 'https://www.resdc.cn/data.aspx?DATAID=270'
+Building heights and profile dataset is available from 'https://www.resdc.cn/data.aspx?DATAID=270'
